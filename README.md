@@ -1,2 +1,2 @@
-# rival.web.siagaku
+# web.siagaku
 web
